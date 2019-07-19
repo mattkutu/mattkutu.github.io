@@ -11,7 +11,7 @@ layout: feed
 	<id>http://mattkutu.github.io/blog</id>
 	<author>
 		<name>Matthew Kutugata</name>
-		<email>mattkutugata@gmail.com</email>
+		<email>mattkutu@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
