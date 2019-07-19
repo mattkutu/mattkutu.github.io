@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matthew Kutugata, Ag Tech Researcher, Launches Site"
+title: "Ag Tech Research, Launches Site, Test"
 date: 2019-07-19
 ---
 
