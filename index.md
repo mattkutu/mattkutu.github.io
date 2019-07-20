@@ -33,7 +33,7 @@ Matt is a graduate student at the University of Texas Rio Grande Valley. His res
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/mattkutu">GitHub</a></li>
           <li><a href="https://instagram.com/mattkutu">Instagram (@mattkutu)</a></li>
       </ul>
