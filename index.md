@@ -18,7 +18,7 @@ Matt is a graduate student at the University of Texas Rio Grande Valley. His res
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+            Matthew Kutugata<br/>
             Email: matthew.kutugata01@utrgv.edu<br/>
         </div>
 
